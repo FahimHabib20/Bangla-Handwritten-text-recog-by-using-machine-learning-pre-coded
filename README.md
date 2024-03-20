@@ -1,1 +1,1 @@
-# Bangla-Handwritten-text-recog-by-using-machine-learning-pre-coded
+# Bangla-Handwritten-text-recog-by-using-Deep-learning
